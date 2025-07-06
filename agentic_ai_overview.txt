@@ -1,0 +1,25 @@
+
+Agentic AI Overview
+---------------------
+Agentic AI refers to AI systems designed to operate autonomously as agents that can plan, reason, and execute tasks with minimal human intervention. 
+These systems leverage large language models (LLMs), orchestration frameworks like LangChain and LangGraph, and vector databases for retrieval-augmented generation (RAG).
+
+Key Features:
+- Autonomous task execution
+- Context-aware decision making
+- Integration with APIs and external tools
+- Dynamic planning and memory
+
+Popular Tools & Frameworks:
+- LangChain
+- LangGraph
+- Pinecone
+- Weaviate
+
+Use Cases:
+- Automated customer support
+- Complex data extraction
+- Knowledge base querying with RAG
+- Workflow automation and multi-agent collaboration
+
+Agentic AI represents the next evolution of intelligent systems that go beyond static prompt-response models, enabling businesses to unlock new levels of productivity.
